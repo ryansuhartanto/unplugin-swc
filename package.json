@@ -68,5 +68,8 @@
     "vite": "^7.1.10",
     "vitest": "^3.2.4"
   },
+  "engines": {
+    "node": ">=20.20.0"
+  },
   "prettier": "@sxzz/prettier-config"
 }
